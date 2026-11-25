@@ -1,0 +1,1 @@
+{"name":"bt05","version":"1.0.0","private":true,"main":"bai05.js","scripts":{"start":"node bai05.js"},"dependencies":{"mongodb":"^6.0.0"}}
