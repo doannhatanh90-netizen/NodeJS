@@ -1,0 +1,7 @@
+{
+  "name": "bt04-mongodb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node bai04.js" },
+  "dependencies": { "mongodb": "^6.0.0" }
+}
