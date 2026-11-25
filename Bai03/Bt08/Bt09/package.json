@@ -1,0 +1,7 @@
+{
+  "name": "bt09-mongodb",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node bai09.js" },
+  "dependencies": { "mongodb": "^6.0.0" }
+}
